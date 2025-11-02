@@ -1,13 +1,7 @@
 import { motion } from "framer-motion";
 import BlobsPlayground from "../components/aimations/BlobsPlayground";
-import TextInput from "../components/common/TextInput";
-import MessageInput from "../components/common/MessageInput";
-import Button from "../components/common/Button";
 
 function Contact() {
-  const submitHandler = (e) => {
-    e.preventDefault();
-  };
   return (
     <BlobsPlayground>
       <motion.div
