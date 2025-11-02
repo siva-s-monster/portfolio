@@ -1,0 +1,8 @@
+{
+  "avatar": "/image/selfi.png",
+  "name": "Siva Sambath Mudaliar",
+  "title": "Go Developer with attention to detail and performance focus. Hands on experience building scalable backends, REST/gRPC APIs, cloud native microservices. ",
+  "bio": "My name is Siva, and I'm a Go developer focused on building scalable, high-performance microservices. I specialize in REST/gRPC APIs, AWS, and Kubernetes, with strong skills in CI/CD automation and troubleshooting production systems. Take a look at a few of my projects to see what I’m all about!",
+  "linkedin": "https://www.linkedin.com/in/siva-s-6676b0256",
+  "resume": "./image/siva_resume.pdf"
+}

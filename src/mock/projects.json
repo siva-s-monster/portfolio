@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "AIRISTAR",
+    "image": "/image/proj_retail.png"
+  },
+  {
+    "id": 2,
+    "title": "TTEC",
+    "image": "/image/ttec.png"
+  },
+  {
+    "id": 3,
+    "title": "UBER",
+    "image": "/image/uber.png"
+  },
+  {
+    "id": 4,
+    "title": "HUMAN",
+    "image": "/image/human.png"
+  },
+  {
+    "id": 5,
+    "title": "UBER",
+    "image": "/image/uber-2.png"
+  },
+  {
+    "id": 6,
+    "title": "Digital Signage",
+    "image": "/image/display_cover.png"
+  }
+]
